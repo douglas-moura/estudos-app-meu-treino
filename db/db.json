@@ -1,0 +1,21 @@
+{
+    "profile": {
+        "name": "typicode"
+    },
+    "usuarios": [
+        {
+            "cod": 224,
+            "cpf": "45846020852",
+            "nome": "Douglas",
+            "sobrenome": "Moura",
+            "senha": "123abc"
+        },
+        {
+            "cod": 117,
+            "cpf": "45846020892",
+            "nome": "Douglas",
+            "sobrenome": "Moura",
+            "senha": "123abc"
+        }
+    ]
+}
