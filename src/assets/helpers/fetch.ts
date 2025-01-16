@@ -1,4 +1,4 @@
-import { User } from './interfaces'
+import type { User } from './interfaces'
 
 export const usuario = async (info: string, value: number | string): Promise<User | null> => {
 	try {
